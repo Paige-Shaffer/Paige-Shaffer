@@ -1,6 +1,5 @@
 ### About Me & My Goals
-Hello! I'm Theo (they/them). Currently working towards full-stack development & media design experience. I am still building my portfolio, but feel free to have a look around! My main focus are projects that make a difference and an impact.
-
+Hello! I'm Theo (they/them). Currently working towards full-stack development & media design experience. I am still building my portfolio, but feel free to have a look around! I am still a student, so I am not looking for full-time employment; just internships. 
 
 ### Main Languages
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java)](https://skillicons.dev)
