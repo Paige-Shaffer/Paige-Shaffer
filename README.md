@@ -6,5 +6,5 @@ Hello! I'm Theo (they/them). Currently working towards full-stack development & 
 
 
 ### Other Skills and Experience
-[![Experience](https://skillicons.dev/icons?i=,au,ps,pr,visualstudio,vscode,arduino)](https://skillicons.dev)
+[![Experience](https://skillicons.dev/icons?i=au,ps,pr,visualstudio,vscode,arduino)](https://skillicons.dev)
 
